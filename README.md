@@ -36,7 +36,7 @@ User List is a fast and interactive React app built with Vite. Users can be adde
 
 ### 🌐 Live Demo
 
-Check out the deployed app here: [Click here](https://github.com/khabbab50/TapaScriptCars.git)
+Check out the deployed app here: [Click here](https://tapa-script-add-user-app.vercel.app/)
 
 ---
 
